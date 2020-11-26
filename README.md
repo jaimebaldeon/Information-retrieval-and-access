@@ -1,1 +1,1 @@
-# RAI
+# Information retrieval and access
